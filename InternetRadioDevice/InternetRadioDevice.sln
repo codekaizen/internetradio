@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.24630.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetRadioController", "InternetRadioController\InternetRadioController.csproj", "{895696B1-A4B8-4864-89E1-C9067AA8A542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDisplay", "..\lib\TextDisplay\TextDisplayManager\TextDisplay.csproj", "{060399D9-871D-4A17-A249-A12B9D3F7682}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDisplay", "..\TextDisplay\TextDisplayManager\TextDisplay.csproj", "{060399D9-871D-4A17-A249-A12B9D3F7682}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniversalMediaEngine", "..\lib\UniversalMediaEngine\UniversalMediaEngine\UniversalMediaEngine.vcxproj", "{81D46002-EC95-4423-BF6E-DBE82CCD55CA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniversalMediaEngine", "..\UniversalMediaEngine\UniversalMediaEngine\UniversalMediaEngine.vcxproj", "{81D46002-EC95-4423-BF6E-DBE82CCD55CA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternetRadioAllJoyn", "InternetRadioAllJoyn\InternetRadioAllJoyn.vcxproj", "{5DAF0D4C-EF4F-4E20-8877-DB2AAEB89BBD}"
 EndProject
